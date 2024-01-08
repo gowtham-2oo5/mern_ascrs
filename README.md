@@ -9,7 +9,7 @@ Key Features:
 - User-friendly interface
 - Robust and scalable architecture
 
-Connect with me on [LinkedIn](www.linkedin.com/in/gowtham-2oo5) to stay updated on the project's progress. I welcome any advice or suggestions you may have.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gowtham-2oo5) to stay updated on the project's progress. I welcome any advice or suggestions you may have.
 
 Let's revolutionize the way students register for courses with ASCRS!
 
